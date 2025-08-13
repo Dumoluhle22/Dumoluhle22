@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Dumoluhle Nkomo 
-- 👀 I’m interested in SQL and Java programming 
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Java projects 
-- 📫 How to reach me Dumoluhlenkomo135@gmail.com 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I can sing
 
-<!---
-Dumoluhle22/Dumoluhle22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Dumoluhle 👋
+
+💻 Aspiring Business Analyst | Web Developer in Training
+🌍 Based in Johannesburg, South Africa  
+🎯 Currently learning: Python 🐍  
+📚 Fluent in: HTML, CSS, SQL  
+📈 Passionate about: data-driven solutions, problem-solving, and building projects that make an impact.
+
+
+🔧 Tech Stack
+- Frontend: HTML, CSS
+- Backend & Databases: SQL
+- Currently Learning: Python
+- Tools: Git, GitHub, VS Code
+
+
+📌 Current Projects
+- Building small Python automation scripts
+- Creating SQL-driven dashboards & reports
+- Improving HTML/CSS responsive design skills
+
+
+🚀 Goals for 2025
+- Build 5+ portfolio-worthy projects  
+- Learn Django or Flask for Python web development  
+- Contribute to at least 2 open-source projects  
+
+ 📫 How to reach me
+- Email: dumoluhlenkomo135@gmail.com  
+- LinkedIn: [Your LinkedIn link]
