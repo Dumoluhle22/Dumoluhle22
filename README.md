@@ -28,4 +28,3 @@ Hi there, I'm Dumoluhle 👋
 
  📫 How to reach me
 - Email: dumoluhlenkomo135@gmail.com  
-- LinkedIn: [Your LinkedIn link]
