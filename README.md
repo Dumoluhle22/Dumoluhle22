@@ -1,10 +1,10 @@
 
 Hi there, I'm Dumoluhle 👋
 
-💻 Aspiring Business Analyst | Web Developer in Training
+💻 Aspiring data Analyst | Web Developer
 🌍 Based in Johannesburg, South Africa  
 🎯 Currently learning: Python 🐍  
-📚 Fluent in: HTML, CSS, SQL  
+📚 Fluent in: HTML, CSS, SQL, Java 
 📈 Passionate about: data-driven solutions, problem-solving, and building projects that make an impact.
 
 
